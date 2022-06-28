@@ -21,4 +21,4 @@ Simple Project By https://getbootstrap.com/docs/4.6/getting-started/introduction
 - Email : [ctrmirna@gmail.com](mailto:ctrmirna@gmail.com)
 
 ---
-###### tags: `Vue Js` `PWA` `ServiceWorker` `CSS` `DarkLightTheme` 
+###### tags: `Bootstrap 4` 
